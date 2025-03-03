@@ -6,7 +6,7 @@ Furthermore, I have experience in handling both SQL and NoSQL databases, allowin
 
 Passionate about technology, I am fascinated by the world of robotics and home automation. I enjoy working on projects that blend electronics and software to create innovative solutions. Additionally, I am a sports enthusiast and love spending time outdoors.
 
-**Let's talk code and soccer! ☕️🚀**
+**Let's talk code and play soccer! ☕️🚀⚽️**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anthony-rodriguez-dev/) 
